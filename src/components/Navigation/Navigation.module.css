@@ -5,7 +5,7 @@
   position: sticky;
   z-index: 100;
   top: 0;
-  background-color: var(--green);
+  background-color: #578846;
 }
 
 .wrap {
@@ -25,7 +25,7 @@
 .header nav {
   width: calc(100% - 120px - 24px);
   font-size: 18px;
-  font-weight: 500;
+  font-weight: 600;
   display: flex;
   gap: 28px;
   justify-content: center;
@@ -36,7 +36,7 @@
 }
 
 .active {
-  color: var(--dark-green);
+  color: #074c0c;
 }
 
 @media screen and (min-width: 768px) {

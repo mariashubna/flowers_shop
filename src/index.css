@@ -58,6 +58,10 @@ button {
   );
   padding: 60px 0;
 }
+
+.slick-track {
+  margin-bottom: 20px;
+}
 @media screen and (min-width: 345px) {
   .container {
     width: 345px;

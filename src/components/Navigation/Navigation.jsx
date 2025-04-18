@@ -1,6 +1,6 @@
 import { Link, NavLink } from "react-router-dom";
 import css from "./Navigation.module.css";
-import logo from "../../images/logo.png";
+import logo from "../../images/logo4.png";
 // import FavoriteButton from "../FavoriteButton/FavoriteButton";
 // import { selectFavorite } from "../../redux/favorites/selectors";
 // import { useSelector } from "react-redux";
