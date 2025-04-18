@@ -1,0 +1,15 @@
+.wrap {
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+}
+.title {
+  text-align: center;
+}
+.img {
+  width: 100%;
+  border-radius: 20px;
+}
+.story_info {
+  text-align: center;
+}

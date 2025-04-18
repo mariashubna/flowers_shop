@@ -1,5 +1,6 @@
 * {
   font-family: "Cormorant Garamond", serif;
+  box-sizing: border-box;
 }
 body,
 ul,
@@ -31,6 +32,8 @@ button {
   --white: #fff;
   --green: #a8c3a0;
   --dark-green: #4a7351;
+  --background-green: rgb(234, 247, 234);
+  --background-rose: rgb(251, 222, 239);
 }
 .container {
   max-width: 100%;
@@ -38,6 +41,22 @@ button {
   padding-right: 16px;
   margin: 0 auto;
   box-sizing: border-box;
+}
+.section_title {
+  font-size: 36px;
+  text-transform: capitalize;
+}
+.section-info {
+  font-size: 24px;
+}
+.section {
+  background: linear-gradient(
+    90deg,
+    var(--background-green) 0%,
+    var(--background-rose) 50%,
+    var(--background-green) 100%
+  );
+  padding: 60px 0;
 }
 @media screen and (min-width: 345px) {
   .container {
