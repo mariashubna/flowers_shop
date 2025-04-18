@@ -1,0 +1,58 @@
+.hero {
+  /* padding: 250px 0 400px; */
+  margin: 0 auto;
+
+  background-color: var(--main);
+  background: linear-gradient(
+      57deg,
+      rgba(0, 0, 0, 0.4) 0%,
+      rgba(0, 0, 0, 0) 100%
+    ),
+    url("../../images/backgr_desktop.png");
+  max-width: 1600px;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.home_wrap {
+  padding: 300px 0 50px 0;
+}
+.title {
+  font-weight: 600;
+  font-size: 64px;
+  line-height: 1.2;
+  color: white;
+  margin-bottom: 16px;
+}
+
+.info {
+  font-weight: 600;
+  font-size: 28px;
+  line-height: 1.33;
+  color: white;
+  margin-bottom: 40px;
+  width: 800px;
+}
+.btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  letter-spacing: -0.01em;
+  color: var(--white);
+  border-radius: 200px;
+  width: 173px;
+  height: 56px;
+  background: transparent;
+  transition: background-color 0.4s ease-out, color 0.4s ease-out;
+  text-align: center;
+  border: 1px solid var(--green);
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.btn:hover,
+.btn:focus {
+  background: var(--green);
+  color: var(--dark-green);
+}
