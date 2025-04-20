@@ -30,10 +30,11 @@ button {
 }
 :root {
   --white: #fff;
-  --green: #a8c3a0;
+  --green: #228c33;
   --dark-green: #4a7351;
   --background-green: rgb(234, 247, 234);
   --background-rose: rgb(251, 222, 239);
+  --light-green: #b1eaba;
 }
 .container {
   max-width: 100%;

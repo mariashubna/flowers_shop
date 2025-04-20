@@ -1,0 +1,40 @@
+.footer {
+  background-color: var(--light-green);
+  padding: 50px 0 20px;
+}
+.wrap {
+  display: flex;
+  flex-direction: column;
+  gap: 70px;
+}
+.main_wrap {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 70px;
+}
+.logo_wrap {
+  width: 250px;
+  font-size: 14px;
+}
+.logo img {
+  width: 100px;
+  height: auto;
+}
+.subtitle {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+.info {
+  font-size: 18px;
+  color: black;
+}
+.info_wrap {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.info_wrap li {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}

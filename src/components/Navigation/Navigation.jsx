@@ -33,7 +33,9 @@ const Navigation = () => {
             Favorites
           </NavLink>
         </nav>
-        <GiFlowerPot className={css.basket} />
+        <NavLink className={getActiveClass} to="/cart">
+          <GiFlowerPot className={css.basket} />
+        </NavLink>
         {/* {location.pathname === "/catalog" && favorites.length > 0 && (
           <FavoriteButton />
         )} */}
