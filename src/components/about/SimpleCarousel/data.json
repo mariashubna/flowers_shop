@@ -1,55 +1,55 @@
 [
   {
     "id": 1,
-    "image": "../../../../public/florist_1.png",
+    "image": "/florist_1.png",
     "alt": "Anna Collins",
     "caption": "Florist"
   },
   {
     "id": 2,
-    "image": "../../../../public/florist_2.png",
+    "image": "/florist_2.png",
     "alt": "Maria Bennett",
     "caption": "Senior Florist"
   },
   {
     "id": 3,
-    "image": "../../../../public/florist_3.png",
+    "image": "/florist_3.png",
     "alt": "Sophie Parker",
     "caption": "Florist"
   },
   {
     "id": 4,
-    "image": "../../../../public/florist_4.png",
+    "image": "/florist_4.png",
     "alt": "Julia Reed",
     "caption": "Trainee"
   },
   {
     "id": 5,
-    "image": "../../../../public/florist_5.png",
+    "image": "/florist_5.png",
     "alt": "Elena Brooks",
     "caption": "Florist"
   },
   {
     "id": 6,
-    "image": "../../../../public/florist_6.png",
+    "image": "/florist_6.png",
     "alt": "Natalie Green",
     "caption": "Senior Florist"
   },
   {
     "id": 7,
-    "image": "../../../../public/florist_7.png",
+    "image": "/florist_7.png",
     "alt": "Katherine Hughes",
     "caption": "Florist"
   },
   {
     "id": 8,
-    "image": "../../../../public/florist_8.png",
+    "image": "/florist_8.png",
     "alt": "Daniel Morgan",
     "caption": "Florist"
   },
   {
     "id": 9,
-    "image": "../../../../public/florist_9.png",
+    "image": "/florist_9.png",
     "alt": "Alexander Lee",
     "caption": "Trainee"
   }
