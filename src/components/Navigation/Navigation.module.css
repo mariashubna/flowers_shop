@@ -38,7 +38,11 @@
 .active {
   color: #074c0c;
 }
-
+.basket {
+  width: 34px;
+  height: 34px;
+  fill: white;
+}
 @media screen and (min-width: 768px) {
   .logo img {
     /* width: unset;
